@@ -1,0 +1,61 @@
+<PISI>
+    <Source>
+        <Name>python-ecdsa</Name>
+        <Packager>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
+        </Packager>
+        <License>MIT</License>
+        <PartOf>programming.python</PartOf>
+        <Summary xml:lang="en">ECDSA cryptographic signature library</Summary>
+        <Description xml:lang="en">ECDSA cryptographic signature library
+</Description>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+    </Source>
+    <Package>
+        <Name>python-ecdsa</Name>
+        <Summary xml:lang="en">ECDSA cryptographic signature library</Summary>
+        <Description xml:lang="en">ECDSA cryptographic signature library
+</Description>
+        <PartOf>programming.python</PartOf>
+        <Files>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa-0.13-py2.7.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa-0.13-py2.7.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa-0.13-py2.7.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa-0.13-py2.7.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/__init__.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/_version.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/_version.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/curves.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/curves.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/der.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/der.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/ecdsa.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/ecdsa.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/ellipticcurve.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/ellipticcurve.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/keys.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/keys.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/numbertheory.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/numbertheory.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/rfc6979.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/rfc6979.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/six.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/six.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/test_pyecdsa.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/test_pyecdsa.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/util.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/util.pyc</Path>
+        </Files>
+    </Package>
+    <History>
+        <Update release="1">
+            <Date>2016-08-13</Date>
+            <Version>0.13</Version>
+            <Comment>Packaging update</Comment>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
+        </Update>
+    </History>
+</PISI>
