@@ -1,6 +1,6 @@
 name       : python-ecdsa
 version    : 0.13
-release    : 4
+release    : 5
 source     :
     - https://pypi.python.org/packages/f9/e5/99ebb176e47f150ac115ffeda5fedb6a3dbb3c00c74a59fd84ddf12f5857/ecdsa-0.13.tar.gz : 64cf1ee26d1cde3c73c6d7d107f835fed7c6a2904aef9eac223d57ad800c43fa
 license    : MIT
