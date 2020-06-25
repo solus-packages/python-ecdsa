@@ -2,8 +2,8 @@
     <Source>
         <Name>python-ecdsa</Name>
         <Packager>
-            <Name>Joey Riches</Name>
-            <Email>josephriches@gmail.com</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@streambits.io</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>programming.python</PartOf>
@@ -19,68 +19,66 @@
 </Description>
         <PartOf>programming.python</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa-0.13-py2.7.egg-info</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/__init__.pyc</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/_version.py</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/_version.pyc</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/curves.py</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/curves.pyc</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/der.py</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/der.pyc</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/ecdsa.py</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/ecdsa.pyc</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/ellipticcurve.py</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/ellipticcurve.pyc</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/keys.py</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/keys.pyc</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/numbertheory.py</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/numbertheory.pyc</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/rfc6979.py</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/rfc6979.pyc</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/six.py</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/six.pyc</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/test_pyecdsa.py</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/test_pyecdsa.pyc</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/util.py</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/ecdsa/util.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa-0.13-py3.7.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa-0.13-py3.7.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa-0.13-py3.7.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa-0.13-py3.7.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa-0.15-py3.7.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa-0.15-py3.7.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa-0.15-py3.7.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa-0.15-py3.7.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa-0.15-py3.7.egg-info/top_level.txt</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__init__.py</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/__init__.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/_compat.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/_rwlock.cpython-37.pyc</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/_version.cpython-37.pyc</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/curves.cpython-37.pyc</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/der.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/ecdh.cpython-37.pyc</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/ecdsa.cpython-37.pyc</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/ellipticcurve.cpython-37.pyc</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/keys.cpython-37.pyc</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/numbertheory.cpython-37.pyc</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/rfc6979.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/six.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/test_der.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/test_ecdh.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/test_ecdsa.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/test_ellipticcurve.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/test_jacobi.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/test_keys.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/test_malformed_sigs.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/test_numbertheory.cpython-37.pyc</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/test_pyecdsa.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/test_rw_lock.cpython-37.pyc</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/util.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/_compat.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/_rwlock.py</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/_version.py</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/curves.py</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/der.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/ecdh.py</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/ecdsa.py</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/ellipticcurve.py</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/keys.py</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/numbertheory.py</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/rfc6979.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/six.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/test_der.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/test_ecdh.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/test_ecdsa.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/test_ellipticcurve.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/test_jacobi.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/test_keys.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/test_malformed_sigs.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/test_numbertheory.py</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/test_pyecdsa.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/test_rw_lock.py</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/util.py</Path>
         </Files>
     </Package>
     <History>
-        <Update release="5">
-            <Date>2020-01-25</Date>
-            <Version>0.13</Version>
+        <Update release="6">
+            <Date>2020-06-25</Date>
+            <Version>0.15</Version>
             <Comment>Packaging update</Comment>
-            <Name>Joey Riches</Name>
-            <Email>josephriches@gmail.com</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@streambits.io</Email>
         </Update>
     </History>
 </PISI>
