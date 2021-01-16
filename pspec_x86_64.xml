@@ -2,8 +2,8 @@
     <Source>
         <Name>python-ecdsa</Name>
         <Packager>
-            <Name>Joshua Strobl</Name>
-            <Email>joshua@streambits.io</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>programming.python</PartOf>
@@ -19,11 +19,11 @@
 </Description>
         <PartOf>programming.python</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa-0.15-py3.7.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa-0.15-py3.7.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa-0.15-py3.7.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa-0.15-py3.7.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa-0.15-py3.7.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa-0.16.1-py3.7.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa-0.16.1-py3.7.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa-0.16.1-py3.7.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa-0.16.1-py3.7.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa-0.16.1-py3.7.egg-info/top_level.txt</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__init__.py</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/__init__.cpython-37.pyc</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/ecdsa/__pycache__/_compat.cpython-37.pyc</Path>
@@ -73,12 +73,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="6">
-            <Date>2020-06-25</Date>
-            <Version>0.15</Version>
+        <Update release="7">
+            <Date>2021-01-16</Date>
+            <Version>0.16.1</Version>
             <Comment>Packaging update</Comment>
-            <Name>Joshua Strobl</Name>
-            <Email>joshua@streambits.io</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Update>
     </History>
 </PISI>

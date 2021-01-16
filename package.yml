@@ -1,8 +1,8 @@
 name       : python-ecdsa
-version    : '0.15'
-release    : 6
+version    : 0.16.1
+release    : 7
 source     :
-    - https://github.com/warner/python-ecdsa/archive/python-ecdsa-0.15.tar.gz : 1fc04999670beb29bb919acad291aa829c126cc5d322e96d43bcda1994d20570
+    - https://github.com/tlsfuzzer/python-ecdsa/archive/python-ecdsa-0.16.1.tar.gz : 3b9fb3cc04d7375e1087dc5b31d6e3edd76a07b307f417b78b8924e164438828
 license    : MIT
 component  : programming.python
 summary    : ECDSA cryptographic signature library
